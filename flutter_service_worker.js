@@ -4,6 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "manifest.json": "ed731b1ac355c5d2c64baa9ac87d784f",
+"style.css": "f6dfe6aab1f9b53cf67b2e0cc5fc97cd",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/assets/gedalogo_270x270.png": "a93ec221ff90bcb1c8d10c3513bb5340",
 "assets/AssetManifest.json": "973b689ac38931bfd903c0cf26fc35d0",
@@ -11,9 +12,9 @@ const RESOURCES = {
 "assets/NOTICES": "51d86553759e340a84cb5fd9a769a755",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "version.json": "015aab7d14c5d03dc5d7fc95c2e02903",
-"index.html": "7ce8825ac57eaf3b67c88b8cbcb78afe",
-"/": "7ce8825ac57eaf3b67c88b8cbcb78afe",
-"main.dart.js": "61ace643bee5d8458e3d94307d882a61",
+"index.html": "dd4765b30320123f71c6d30d660b8207",
+"/": "dd4765b30320123f71c6d30d660b8207",
+"main.dart.js": "db07e69dd8f0dedd0f58e5cd8921ba18",
 "icons/Icon-512.png": "932a07e30259eef10824d0d6f2d465a7",
 "icons/Icon-192.png": "39f1069df26ce66c608062a7c404f360",
 "favicon.png": "2a822fa095d544a551add4ef5363997a"
